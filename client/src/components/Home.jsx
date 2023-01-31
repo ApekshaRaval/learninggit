@@ -27,6 +27,7 @@ const Home = ({ mode }) => {
             <div className={`cardcontent-${mode}`} key={i}>
               <h2> Name: {v.name}</h2>
               <h5> Job title: {v.title}</h5>
+              7Oy57#0%L4&H
             </div>
           
         );
